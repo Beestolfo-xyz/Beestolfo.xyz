@@ -1,0 +1,81 @@
+body {
+  overflow: auto;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #181825;
+  font-size: 25px;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+#navbar a {
+  font-family: 'JetBrains Mono', monospace;
+  color: #cba6f7;
+  padding: 20px;
+  font-size: 30px;
+}
+
+#navbar a:hover {
+  background-color: #11111b;
+  transition-duration: 1s;
+}
+
+h4 {
+  color: #cba6f7;
+}
+
+span {
+  color: #cba6f7;
+}
+
+a {
+  color: #abf7b1;
+}
+
+#Stuffs {
+  color: #cba6f7;
+}
+
+#AboutMe {
+  color: #abf7b1;
+}
+
+#AboutMe2 {
+  color: #abf7b1;
+}
+
+#AboutMe3 {
+  color: #abf7b1;
+}
+
+#DonateToMe {
+  color: #cba6f7;
+}
+
+#DonateMonero {
+  color: #abf7b1;
+}
+
+#MoneroWalletAddress {
+  color: #cba6f7;
+}
+
+#DonateLiberapay {
+  color: #abf7b1;
+}
+
+#Liberapay {
+  color: #cba6f7;
+}
+
+#Github {
+  color: #cba6f7
+}
+
+#BitcoinWalletAddress {
+  color: #cba6f7
+}
+
+#DonateBitcoin {
+  color: #abf7b1
+}

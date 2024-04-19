@@ -1,0 +1,48 @@
+body {
+
+
+  align-items: center;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+
+
+
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #181825;
+  size: 50px;
+  overflow: hidden;
+  text-align: center;
+
+
+
+}
+
+#navbar a {
+  font-family: 'JetBrains Mono', monospace;
+  color: #cba6f7;
+  padding: 20px;
+  font-size: 30px;
+}
+
+#navbar a:hover {
+  background-color: #11111b;
+  transition-duration: 1s;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #181825;
+  /* background-image: url ("") ; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+}
+
+#OpenSource {
+  color: #cba6f7;
+}

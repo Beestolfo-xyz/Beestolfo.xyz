@@ -1,0 +1,93 @@
+body {
+
+
+  align-items: center;
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+
+
+
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #181825;
+  size: 50px;
+
+
+
+}
+
+#navbar a {
+  font-family: 'JetBrains Mono', monospace;
+  color: #cba6f7;
+  padding: 20px;
+  font-size: 30px;
+}
+
+#navbar a:hover {
+  background-color: #11111b;
+  transition-duration: 1s;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #181825;
+  /* background-image: url ("") ; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+}
+
+h1 {
+  color: #abf7b1;
+}
+
+#Firefox {
+  color: #cba6f7;
+}
+
+#VideoPlayer {
+  color: #cba6f7;
+}
+
+#OS {
+  color: #cba6f7;
+}
+
+#Computers {
+  color: #cba6f7;
+}
+
+#IDE {
+  color: #cba6f7;
+}
+
+#Music {
+  color: #cba6f7;
+}
+
+#Reading {
+  color: #cba6f7;
+}
+
+#Theme {
+  color: #cba6f7;
+}
+
+#Crypto {
+  color: #cba6f7;
+}
+
+#Prog {
+  color: #cba6f7;
+}
+
+#WARNING {
+  color: #FF0000;
+}
+
+#RYM {
+  color: #cba6f7;
+}
